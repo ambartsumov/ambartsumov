@@ -88,6 +88,21 @@ AI food recognition via photo, workout logging, analytics.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [CryptoSentinel](https://github.com/ambartsumov/crypto-sentinel)
+**Professional crypto trading signal bot for Telegram**
+
+Spot · Futures · Cross-exchange Arbitrage · Elite Strategy.
+Bayesian probability scoring, Kelly Criterion risk management.
+
+`Python` `Binance API` `ccxt` `numpy` `SQLite` `Docker`
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---
@@ -197,6 +212,21 @@ LLM-мозг, детекция объектов YOLO, офлайн-голос, R
 
 `python-telegram-bot` `SQLAlchemy` `Gemini Vision` `Docker`
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [CryptoSentinel](https://github.com/ambartsumov/crypto-sentinel)
+**Профессиональный сигнальный бот для торговли криптой**
+
+Спот · Фьючерсы · Кросс-биржевой арбитраж · Elite Strategy.
+Байесовская вероятность, риск-менеджмент по критерию Келли.
+
+`Python` `Binance API` `ccxt` `numpy` `SQLite` `Docker`
+
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
