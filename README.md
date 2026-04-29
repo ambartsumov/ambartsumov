@@ -31,7 +31,7 @@ Self-taught AI and backend developer with **3 years of hands-on experience** bui
 
 ## Experience
 
-**IT Systems Specialist — Yyldyrymlar** *(Jan 2023 – Present)*
+**IT Systems Specialist — DGTL** *(Jan 2023 – Present)*
 > Configured warehouse management system tracking 500+ inventory items. Deployed logistics software reducing manual data entry by 70%. Set up automated daily stock reporting. Integrated database solutions for 5+ employees.
 
 **Personal AI Projects** *(Jan 2024 – Present)*
@@ -142,7 +142,7 @@ AI food recognition via photo, workout logging, analytics.
 
 ## Опыт
 
-**IT-специалист — Yyldyrymlar** *(янв 2023 — наст. время)*
+**IT-специалист — DGTL** *(янв 2023 — наст. время)*
 > Настроил систему управления складом на 500+ позиций. Внедрил ПО для логистики, снизив ручной ввод данных на 70%. Настроил автоматические ежедневные отчёты. Интегрировал БД для 5+ сотрудников.
 
 **Личные AI-проекты** *(янв 2024 — наст. время)*
