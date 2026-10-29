@@ -14,15 +14,18 @@ I like work that can be inspected end to end: the data it starts from, the const
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Turkmen Language Dataset](https://github.com/ambartsumov/turkmen-language-dataset) | A public dataset for Turkmen LLM work, bringing together Wikipedia, news, and dialogue sources. |
+| [Unified Workstation](https://github.com/ambartsumov/unified-workstation) | Several computers working as one: shared work folder, one keyboard and mouse, named servers. Local-first, no account. |
+| [Turkmen Language Dataset](https://github.com/ambartsumov/turkmen-language-dataset) | A 336k-record Turkmen corpus for LLM work (web, Wikipedia, news, speech transcripts, dialogues), with a per-source manifest and rebuild scripts. |
+| [TurkmenAI Local](https://github.com/ambartsumov/turkmenai-local) | An offline-first desktop app for running local models, built with Tauri, Rust and React; hardware-aware and loopback-only. |
+| [MTJ-100](https://github.com/ambartsumov/MTJ-100) | A parametric 100 N micro turbojet: thermodynamic cycle → geometry → FreeCAD CAD/FEM → verification. Every dimension is computed, not drawn. |
 | [PDS-Ultimate](https://github.com/ambartsumov/pds-ultimate) | A self-hosted Telegram assistant with voice and text interaction, task planning, tool orchestration, offline speech recognition, and an extensive test suite. |
 | [Autonomous Robot Kesha](https://github.com/ambartsumov/autonomous-robot-kesha) | An ESP32-CAM robotics platform combining voice interaction, object detection, offline speech-to-text, and ROS2 navigation experiments. |
-| [AI Self-Improving Solver](https://github.com/ambartsumov/ai-self-improving-solver) | An engineering-problem solving experiment built around a baseline-and-critic evaluation loop. |
 | [SentinelForge](https://github.com/ambartsumov/SentinelForge) | An offline security-automation research project created for AMD Developer Hackathon ACT II, using a local LLM and a real-time attack graph. |
+| [AI Self-Improving Solver](https://github.com/ambartsumov/ai-self-improving-solver) | An engineering-problem solving experiment built around a baseline-and-critic evaluation loop. |
 
 ## Engineering toolkit
 
-`Python` `FastAPI` `SQL` `Docker` `React` `ROS2` `ESP32` `YOLOv8` `Faster-Whisper` `Vosk` `Playwright`
+`Python` `FastAPI` `SQL` `Docker` `React` `Rust` `Tauri` `FreeCAD` `ROS2` `ESP32` `YOLOv8` `Faster-Whisper` `Vosk` `Playwright`
 
 I work comfortably across data preparation, model integration, evaluation, APIs, automation, and practical deployment. I care about readable systems, clear constraints, and avoiding claims that cannot be supported by the work.
 
