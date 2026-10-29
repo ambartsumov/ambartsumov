@@ -2,9 +2,9 @@
 
 **ML / AI Engineer** building inspectable systems across low-resource language technology, agentic workflows, robotics, and backend automation.
 
-[Portfolio](https://ambartfolio-hdu77bxe.manus.space) · [Hugging Face](https://huggingface.co/Slavik2009) · [Telegram](https://t.me/j40I7)
+[Portfolio](https://ambartfolio-hdu77bxe.manus.space) · [Hugging Face](https://huggingface.co/Slavik2009) · [ORCID](https://orcid.org/0009-0000-1676-4396) · [Telegram](https://t.me/j40I7)
 
-Based in Kuala Lumpur, Malaysia. I am completing MUFY (2026–27) and preparing to continue into AI Engineering at Monash University Malaysia. I am open to internships and junior ML / AI engineering roles, especially where data quality, evaluation, and deployment all matter.
+Based in Kuala Lumpur, Malaysia. I am completing MUFY at Sunway University (2026–27) and preparing to continue into AI Engineering at Monash University Malaysia. I am open to internships and junior ML / AI engineering roles, especially where data quality, evaluation, and deployment all matter.
 
 ## What I build
 
